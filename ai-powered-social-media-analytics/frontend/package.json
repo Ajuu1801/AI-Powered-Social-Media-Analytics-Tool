@@ -1,0 +1,29 @@
+{
+  "name": "ai-social-analytics-frontend",
+  "version": "1.0.0",
+  "description": "AI-Powered Social Media Analytics Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "dev": "vite",
+    "dev:build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "axios": "^1.3.0",
+    "chart.js": "^4.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "lucide-react": "^0.263.0"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14",
+    "typescript": "^5.0.0"
+  }
+}
